@@ -1,0 +1,119 @@
+{
+    "bands": [
+        {
+            "activated": true,
+            "add_to_map": true,
+            "metadata": {
+                "system:asset_size": 220643235,
+                "system:footprint": {
+                    "coordinates": [
+                        [
+                            -180,
+                            -90
+                        ],
+                        [
+                            180,
+                            -90
+                        ],
+                        [
+                            180,
+                            90
+                        ],
+                        [
+                            -180,
+                            90
+                        ],
+                        [
+                            -180,
+                            -90
+                        ]
+                    ],
+                    "type": "LinearRing"
+                }
+            },
+            "name": "Soil organic carbon (degradation)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "system:asset_size": 220643235,
+                "system:footprint": {
+                    "coordinates": [
+                        [
+                            -180,
+                            -90
+                        ],
+                        [
+                            180,
+                            -90
+                        ],
+                        [
+                            180,
+                            90
+                        ],
+                        [
+                            -180,
+                            90
+                        ],
+                        [
+                            -180,
+                            -90
+                        ]
+                    ],
+                    "type": "LinearRing"
+                }
+            },
+            "name": "Soil organic carbon (degradation)",
+            "no_data_value": -32768.0
+        }
+    ],
+    "file": "soil_carbon.tif",
+    "metadata": {
+        "end_date": "2022/03/22 (11:57)",
+        "id": "f51abb01-3893-4a93-a773-a7d4e6a5dcf4",
+        "params": {
+            "asset": "users/geflanddegradation/global_ld_analysis/soc_globe_2001-2015_deg",
+            "crosses_180th": false,
+            "crs": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+            "geojsons": "[{\"coordinates\": [[[7.771391635615487, 49.39628754313557], [10.23289513510241, 49.39628754313557], [10.23289513510241, 51.655012722459134], [7.771391635615487, 51.655012722459134], [7.771391635615487, 49.39628754313557]]], \"type\": \"Polygon\"}]",
+            "name": "Soil organic carbon (degradation)",
+            "task_name": "Soil carbon Hesse",
+            "task_notes": "",
+            "temporal_resolution": "one time",
+            "year_end": 2015,
+            "year_start": 2001
+        },
+        "progress": 100,
+        "results": {
+            "name": "download",
+            "type": "CloudResults",
+            "urls": [
+                {
+                    "md5Hash": "/lTjLngBhF3Mx8bVN9xctA==",
+                    "url": "https://www.googleapis.com/download/storage/v1/b/ldmt/o/f51abb01-3893-4a93-a773-a7d4e6a5dcf4_download_1.tif?generation=1647946627290795&alt=media"
+                }
+            ]
+        },
+        "script": {
+            "created_at": "2021-10-15T16:16:49.518190",
+            "description": "",
+            "id": "b6d88091-d585-4bff-bf57-fd6ffb2b5335",
+            "name": "Download data 1_0_8",
+            "public": true,
+            "slug": "download-data-1-0-8",
+            "status": "SUCCESS",
+            "updated_at": "2021-11-02T16:05:05.569669",
+            "user_id": "70f290e1-f85c-4ea8-9af5-2645d3d749a8"
+        },
+        "script_description": "",
+        "script_id": "b6d88091-d585-4bff-bf57-fd6ffb2b5335",
+        "script_name": "Download data (v1.0.8)",
+        "start_date": "2022/03/22 (11:55)",
+        "status": "FINISHED",
+        "task_name": "Soil carbon Hesse",
+        "task_notes": "",
+        "user_id": "a5faba95-cbbf-4208-ad0f-59ee09ee4f41"
+    }
+}

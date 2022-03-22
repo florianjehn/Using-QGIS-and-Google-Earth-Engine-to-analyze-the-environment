@@ -1,0 +1,736 @@
+{
+    "bands": [
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year_end": 2020,
+                "year_start": 2001
+            },
+            "name": "Productivity trajectory (trend)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": true,
+            "metadata": {
+                "year_end": 2020,
+                "year_start": 2001
+            },
+            "name": "Productivity trajectory (significance)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year_end": 2020,
+                "year_start": 2001
+            },
+            "name": "Mean annual NDVI integral",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": true,
+            "metadata": {
+                "year_end": 2020,
+                "year_start": 2001
+            },
+            "name": "Productivity performance (degradation)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year_end": 2020,
+                "year_start": 2001
+            },
+            "name": "Productivity performance (ratio)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year_start": 2001
+            },
+            "name": "Productivity performance (units)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": true,
+            "metadata": {
+                "year_bl_end": 2017,
+                "year_bl_start": 2001,
+                "year_tg_end": 2020,
+                "year_tg_start": 2018
+            },
+            "name": "Productivity state (degradation)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year_end": 2017,
+                "year_start": 2001
+            },
+            "name": "Productivity state classes",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year_end": 2020,
+                "year_start": 2018
+            },
+            "name": "Productivity state classes",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year_end": 2017,
+                "year_start": 2001
+            },
+            "name": "Productivity state NDVI mean",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year_end": 2020,
+                "year_start": 2018
+            },
+            "name": "Productivity state NDVI mean",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": true,
+            "metadata": {
+                "trans_matrix": [
+                    0,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    -1,
+                    -1,
+                    -1,
+                    0,
+                    1,
+                    -1,
+                    0,
+                    -1,
+                    -1,
+                    -1,
+                    0,
+                    -1,
+                    -1,
+                    -1,
+                    0,
+                    -1,
+                    -1,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    0,
+                    1,
+                    0,
+                    1,
+                    1,
+                    1,
+                    1,
+                    -1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "year_baseline": 2001,
+                "year_target": 2020
+            },
+            "name": "Land cover (degradation)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2001
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2002
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2003
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2004
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2005
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2006
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2007
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2008
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2009
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2010
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2011
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2012
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2013
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2014
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2015
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2016
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2017
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2018
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2019
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2020
+            },
+            "name": "Land cover (7 class)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": true,
+            "metadata": {
+                "year_end": 2020,
+                "year_start": 2001
+            },
+            "name": "Soil organic carbon (degradation)",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2001
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2002
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2003
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2004
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2005
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2006
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2007
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2008
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2009
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2010
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2011
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2012
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2013
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2014
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2015
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2016
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2017
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2018
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2019
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        },
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {
+                "year": 2020
+            },
+            "name": "Soil organic carbon",
+            "no_data_value": -32768.0
+        }
+    ],
+    "file": "land_degradation.tif",
+    "metadata": {
+        "end_date": "2022/03/22 (13:17)",
+        "id": "4b78affa-a5ad-4863-be3d-b055814272ee",
+        "params": {
+            "climate_gee_dataset": null,
+            "crosses_180th": false,
+            "crs": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+            "fl": 0.8,
+            "geojsons": "[{\"coordinates\": [[[7.771391635615487, 49.39628754313557], [10.23289513510241, 49.39628754313557], [10.23289513510241, 51.655012722459134], [7.771391635615487, 51.655012722459134], [7.771391635615487, 49.39628754313557]]], \"type\": \"Polygon\"}]",
+            "lc_year_final": 2020,
+            "lc_year_initial": 2001,
+            "ndvi_gee_dataset": "users/geflanddegradation/toolbox_datasets/ndvi_modis_2001_2020",
+            "prod_mode": "Trends.Earth productivity",
+            "prod_perf_year_final": 2020,
+            "prod_perf_year_initial": 2001,
+            "prod_state_year_bl_end": 2017,
+            "prod_state_year_bl_start": 2001,
+            "prod_state_year_tg_end": 2020,
+            "prod_state_year_tg_start": 2018,
+            "prod_traj_method": "ndvi_trend",
+            "prod_traj_year_final": 2020,
+            "prod_traj_year_initial": 2001,
+            "remap_matrix": [
+                [
+                    10,
+                    11,
+                    12,
+                    20,
+                    30,
+                    40,
+                    50,
+                    60,
+                    61,
+                    62,
+                    70,
+                    71,
+                    72,
+                    80,
+                    81,
+                    82,
+                    90,
+                    100,
+                    110,
+                    120,
+                    121,
+                    122,
+                    130,
+                    140,
+                    150,
+                    151,
+                    152,
+                    153,
+                    160,
+                    170,
+                    180,
+                    190,
+                    200,
+                    201,
+                    202,
+                    210,
+                    220
+                ],
+                [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    4,
+                    4,
+                    4,
+                    5,
+                    6,
+                    6,
+                    6,
+                    7,
+                    6
+                ]
+            ],
+            "soc_year_final": 2020,
+            "soc_year_initial": 2001,
+            "task_name": "Land degradation Hesse",
+            "task_notes": "",
+            "trans_matrix": [
+                0,
+                -1,
+                -1,
+                -1,
+                -1,
+                -1,
+                0,
+                1,
+                0,
+                1,
+                -1,
+                -1,
+                -1,
+                0,
+                1,
+                -1,
+                0,
+                -1,
+                -1,
+                -1,
+                0,
+                -1,
+                -1,
+                -1,
+                0,
+                -1,
+                -1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "progress": 100,
+        "results": {
+            "name": "sdg_sub_indicators",
+            "type": "CloudResults",
+            "urls": [
+                {
+                    "md5Hash": "NdRoQ+aR11eo4KR6EBRcww==",
+                    "url": "https://www.googleapis.com/download/storage/v1/b/ldmt/o/4b78affa-a5ad-4863-be3d-b055814272ee_sdg_sub_indicators_1.tif?generation=1647951420835757&alt=media"
+                }
+            ]
+        },
+        "script": {
+            "created_at": "2021-10-15T16:16:53.955938",
+            "description": "",
+            "id": "42112e49-87d4-4b85-ae9a-fae6436429a9",
+            "name": "SDG sub-indicators 1_0_8",
+            "public": true,
+            "slug": "sdg-sub-indicators-1-0-8",
+            "status": "SUCCESS",
+            "updated_at": "2021-11-02T16:05:10.216862",
+            "user_id": "70f290e1-f85c-4ea8-9af5-2645d3d749a8"
+        },
+        "script_description": "",
+        "script_id": "42112e49-87d4-4b85-ae9a-fae6436429a9",
+        "script_name": "SDG sub-indicators (v1.0.8)",
+        "start_date": "2022/03/22 (13:12)",
+        "status": "FINISHED",
+        "task_name": "Land degradation Hesse",
+        "task_notes": "",
+        "user_id": "a5faba95-cbbf-4208-ad0f-59ee09ee4f41"
+    }
+}

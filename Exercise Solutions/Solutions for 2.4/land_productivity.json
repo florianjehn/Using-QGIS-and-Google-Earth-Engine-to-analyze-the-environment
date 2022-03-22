@@ -1,0 +1,95 @@
+{
+    "bands": [
+        {
+            "activated": true,
+            "add_to_map": true,
+            "metadata": {
+                "Data_Source": "Joint Research Commission (JRC)",
+                "End_Year": "NA",
+                "Max_Latitude": 90,
+                "Max_Longitude": 180,
+                "Min_Latitude": -90,
+                "Min_Longitude": -180,
+                "Spatial_Resolution": "1 km",
+                "Start_Year": "NA",
+                "Temporal_Resolution": "one time",
+                "system:asset_size": 153696551,
+                "system:description": "The Land Productivity Dynamics (LPD) dataset is produced by the Joint research Ommission. The land-productivity dynamics dataset is calculated from vegetation indices derived from long-term low-resolution satellite time series such as the GIMMS3g dataset combined with productivity efficiency measurements derived from short, recent, medium resolution data such as those from the SPOT VEGETATION sensor. The limited set of NDVI variables is extended by a number of phenological and productivity relevant variables. Keeping statistical solidity, qualitative approaches have been selected to classify, interpret and integrate these several variables. Intermediate products are produced that are then combined into a Land-productivity Dynamics data layer. Land-productivity dynamics can indicate levels of sustained land-quality and is therefore used as first step in the land degradation assessment.",
+                "system:footprint": {
+                    "coordinates": [
+                        [
+                            -180,
+                            -90
+                        ],
+                        [
+                            180,
+                            -90
+                        ],
+                        [
+                            180,
+                            90
+                        ],
+                        [
+                            -180,
+                            90
+                        ],
+                        [
+                            -180,
+                            -90
+                        ]
+                    ],
+                    "type": "LinearRing"
+                }
+            },
+            "name": "Land Productivity Dynamics (LPD)",
+            "no_data_value": -32768.0
+        }
+    ],
+    "file": "land_productivity.tif",
+    "metadata": {
+        "end_date": "2022/03/22 (11:58)",
+        "id": "018b4271-5ba1-4e20-9715-87b9158c5544",
+        "params": {
+            "asset": "users/geflanddegradation/toolbox_datasets/lpd_300m_longlat",
+            "crosses_180th": false,
+            "crs": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+            "geojsons": "[{\"coordinates\": [[[7.771391635615487, 49.39628754313557], [10.23289513510241, 49.39628754313557], [10.23289513510241, 51.655012722459134], [7.771391635615487, 51.655012722459134], [7.771391635615487, 49.39628754313557]]], \"type\": \"Polygon\"}]",
+            "name": "Land Productivity Dynamics (LPD)",
+            "task_name": "Land productivity Hesse",
+            "task_notes": "",
+            "temporal_resolution": "one time",
+            "year_end": 2015,
+            "year_start": 2001
+        },
+        "progress": 100,
+        "results": {
+            "name": "download",
+            "type": "CloudResults",
+            "urls": [
+                {
+                    "md5Hash": "CPU1qsibtbm6f/VPzx6NCQ==",
+                    "url": "https://www.googleapis.com/download/storage/v1/b/ldmt/o/018b4271-5ba1-4e20-9715-87b9158c5544_download_1.tif?generation=1647946642594268&alt=media"
+                }
+            ]
+        },
+        "script": {
+            "created_at": "2021-10-15T16:16:49.518190",
+            "description": "",
+            "id": "b6d88091-d585-4bff-bf57-fd6ffb2b5335",
+            "name": "Download data 1_0_8",
+            "public": true,
+            "slug": "download-data-1-0-8",
+            "status": "SUCCESS",
+            "updated_at": "2021-11-02T16:05:05.569669",
+            "user_id": "70f290e1-f85c-4ea8-9af5-2645d3d749a8"
+        },
+        "script_description": "",
+        "script_id": "b6d88091-d585-4bff-bf57-fd6ffb2b5335",
+        "script_name": "Download data (v1.0.8)",
+        "start_date": "2022/03/22 (11:55)",
+        "status": "FINISHED",
+        "task_name": "Land productivity Hesse",
+        "task_notes": "",
+        "user_id": "a5faba95-cbbf-4208-ad0f-59ee09ee4f41"
+    }
+}

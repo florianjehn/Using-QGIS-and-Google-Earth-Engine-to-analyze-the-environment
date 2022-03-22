@@ -1,0 +1,16 @@
+{
+    "bands": [
+        {
+            "activated": true,
+            "add_to_map": false,
+            "metadata": {},
+            "name": "SDG 15.3.1 Indicator",
+            "no_data_value": -32768.0
+        }
+    ],
+    "file": "land_degradation_full..tif",
+    "metadata": {
+        "task_name": "Land degradation Hesse",
+        "task_notes": ""
+    }
+}
