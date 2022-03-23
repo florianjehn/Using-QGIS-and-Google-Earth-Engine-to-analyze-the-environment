@@ -7,7 +7,8 @@ This is a reversed classroom course, which means that the students are meant to 
 
 All exercises have to be submitted at certain deadlines. Some are graded, but all have to be submitted to get a grade. The exercises that are meant to be graded are: 
 
-* 
+* Exercise 1 in Notebook 1.1 (10 points)
+* Exercise 3 in Notebook 2.4 (20 points)
 
 If you want to contribute, I'd be happy to hear from you. The easiest way is to simply send me a pull request. If any questions arise, please contact [me](mailto:florianjehn@posteo.de).
 
