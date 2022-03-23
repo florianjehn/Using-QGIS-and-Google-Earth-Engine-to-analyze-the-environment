@@ -1,5 +1,5 @@
 # Using-QGIS-to-understand-land-use-change
-Repository for a QGIS course at the Justus-Liebig-University Giessen. This course is meant to get students from not knowing anything about QGIS, to being able to use it for a basic land use change analysis in combination with Google Earth Engine. The materials consits of juypter notebook. Those contain explanations, videos and exercises. All data for the exercises is also in this repository. 
+Repository for a QGIS course at the Justus-Liebig-University Giessen. This course is meant to get students from not knowing anything about QGIS, to being able to use it for a basic land use change analysis in combination with Google Earth Engine. The materials consits of juypter notebook. Those contain explanations, videos and exercises. All data for the exercises is also in this repository. Part 1 is about QGIS basics, part 2 tackles land use analysis. 
 
 The intended way to teach this course is the following:
 
@@ -8,6 +8,7 @@ This is a reversed classroom course, which means that the students are meant to 
 All exercises have to be submitted at certain deadlines. Some are graded, but all have to be submitted to get a grade. The exercises that are meant to be graded are: 
 
 * Exercise 1 in Notebook 1.1 (10 points)
+* Exercise 1 in Notebook 1.2 (5 points)
 * Exercise 3 in Notebook 2.4 (20 points)
 
 If you want to contribute, I'd be happy to hear from you. The easiest way is to simply send me a pull request. If any questions arise, please contact [me](mailto:florianjehn@posteo.de).
