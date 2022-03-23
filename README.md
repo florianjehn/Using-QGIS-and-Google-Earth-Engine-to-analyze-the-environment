@@ -11,6 +11,4 @@ All exercises have to be submitted at certain deadlines. Some are graded, but al
 * Exercise 1 in Notebook 1.2 (5 points)
 * Exercise 3 in Notebook 2.4 (20 points)
 
-If you want to contribute, I'd be happy to hear from you. The easiest way is to simply send me a pull request. If any questions arise, please contact [me](mailto:florianjehn@posteo.de).
-
 This course reuses material from https://github.com/ucdavisdatalab/Intro-to-Desktop-GIS-with-QGIS
