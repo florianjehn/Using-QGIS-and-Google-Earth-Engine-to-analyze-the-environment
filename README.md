@@ -9,6 +9,7 @@ All exercises have to be submitted at certain deadlines. Some are graded, but al
 
 * Exercise 1 in Notebook 1.1 (10 points)
 * Exercise 1 in Notebook 1.2 (5 points)
-* Exercise 3 in Notebook 2.4 (20 points)
+* Exercise 3 in Notebook 2.4 (15 points)
+* Exercise 2 in Notebook 2.5 (15 points)
 
 This course reuses material from https://github.com/ucdavisdatalab/Intro-to-Desktop-GIS-with-QGIS
