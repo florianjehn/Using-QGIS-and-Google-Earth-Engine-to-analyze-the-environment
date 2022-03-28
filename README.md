@@ -4,7 +4,7 @@ Repository for a QGIS course at the Justus-Liebig-University Giessen. This cours
 
 The intended way to teach this course is the following:
 
-This is a reversed classroom course, which means that the students are meant to take a look at the notebook on the day before class, watch all the videos and at least read the practice questions. In the classroom the students and teacher discuss the practice questions and then the students do the exercises on their own, but can ask the teacher at any time to help them out. This way enables the students to get the most knowledge out of their teachers and also allows students to even do this course with no teacher at all (though it is probably quite helpful to have one).
+The students are meant to take a look at the notebook on their own. They have to watch all the videos and do all the exercises. There are regular Q&A sessions were students can ask questions about the course in the group. In addition, students can book appointments with the teacher to get 1on1 feedback (easiest way to implement this is [calendly](https://calendly.com/)). This is especially important for the final project. 
 
 ## Grading and schedule
 
