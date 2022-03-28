@@ -13,4 +13,4 @@ All exercises have to be submitted at certain deadlines. Some are graded, but al
 * Exercise 2 in Notebook 2.5 (15 points)
 * The Final Project (55 points)
 
-This course reuses material from https://github.com/ucdavisdatalab/Intro-to-Desktop-GIS-with-QGIS
+This course reuses material from https://github.com/ucdavisdatalab/Intro-to-Desktop-GIS-with-QGIS and https://github.com/florianjehn/EEwPython.
