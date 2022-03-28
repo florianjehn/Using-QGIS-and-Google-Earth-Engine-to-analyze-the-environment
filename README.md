@@ -1,4 +1,4 @@
-# Using-QGIS-to-understand-land-use-change
+# Using-QGIS-and-Google-Earth-Engine-to-understand-SDGs
 ## Course structure
 Repository for a QGIS course at the Justus-Liebig-University Giessen. This course is meant to get students from not knowing anything about QGIS, to being able to use it for a basic land use change analysis in combination with Google Earth Engine. The materials consits of juypter notebook. Those contain explanations, videos and exercises. All data for the exercises is also in this repository. Part 1 is about QGIS basics, part 2 tackles land use analysis. All notebooks are stored as Jupyter Notebooks. However, to provide them to the students it will make sense to convert them to html or pdf. 
 
