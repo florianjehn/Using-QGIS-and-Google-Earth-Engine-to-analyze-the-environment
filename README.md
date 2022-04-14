@@ -20,4 +20,4 @@ This course is to be taught over a 12 week period. All graded exercises have to 
 
 
 
-This course reuses material from https://github.com/ucdavisdatalab/Intro-to-Desktop-GIS-with-QGIS, https://github.com/google/earthengine-community and https://github.com/csaybar/EEwPython.
+This course reuses material from https://github.com/ucdavisdatalab/Intro-to-Desktop-GIS-with-QGIS (published under GNU Public License), https://github.com/google/earthengine-community (published under Apache-2.0 license, same as this repository) and https://github.com/csaybar/EEwPython (published under Apache-2.0 license, same as this repository) .
