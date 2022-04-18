@@ -18,6 +18,8 @@ This course is to be taught over a 12 week period. All graded exercises have to 
 * The Final Project Pseudocode (15 points) has to be submitted by the end of week 10.  
 * The Final Project Execution (15 points) has to be submitted at the end of week 12. 
 
+The grading focusses less on Google Earth Engine, as it is likely that the students will struggle here most. 
+
 
 
 This course reuses material from https://github.com/ucdavisdatalab/Intro-to-Desktop-GIS-with-QGIS (published under GNU Public License), https://github.com/google/earthengine-community (published under Apache-2.0 license, same as this repository) and https://github.com/csaybar/EEwPython (published under Apache-2.0 license, same as this repository) .
