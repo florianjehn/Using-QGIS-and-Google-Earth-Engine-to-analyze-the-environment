@@ -12,9 +12,10 @@ This course is to be taught over a 12 week period. All graded exercises have to 
 
 * Exercise 1 in Notebook 1.1 (10 points) has to be submitted at the end of week 1. 
 * Exercise 1 in Notebook 1.2 (5 points) has to be submitted at the end of week 3. 
-* Exercise 3 in Notebook 2.4 (15 points) has to be submitted at the end of week 5. 
-* Exercise 2 in Notebook 2.5 (15 points) has to be submitted at the end of week 7. 
-* The Final Project Outline (40 points) has to be submitted at the end of week 10. 
+* Exercise 3 in Notebook 2.4 (15 points) has to be submitted at the end of week 4. 
+* Exercise 2 in Notebook 2.5 (15 points) has to be submitted at the end of week 6. 
+* The Final Project Outline (25 points) has to be submitted at the end of week 9.
+* The Final Project Pseudocode (15 points) has to be submitted by the end of week 10.  
 * The Final Project Execution (15 points) has to be submitted at the end of week 12. 
 
 
